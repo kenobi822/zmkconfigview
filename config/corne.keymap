@@ -51,7 +51,7 @@
 
             bindings = <
 &kp ESC  &kp EXCL  &kp AT  &kp HASH  &kp DLLR       &kp PRCNT    &kp CARET   &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR   &kp BSPC
-  &to 1    &kp F1  &kp F2    &kp F3    &kp F4          &kp F5       &kp F6  &kp MINUS         &kp LBKT  &kp RBKT  &kp BSLH  &kp GRAVE
+  &to 2    &kp F1  &kp F2    &kp F3    &kp F4          &kp F5       &kp F6  &kp MINUS         &kp LBKT  &kp RBKT  &kp BSLH  &kp GRAVE
  &tog 0    &kp F7  &kp F8    &kp F9   &kp F10         &kp F11      &kp F12  &kp EQUAL         &kp LBRC  &kp RBRC  &kp PIPE  &kp TILDE
                            &kp LGUI    &trans  &kp LEFT_SHIFT    &kp SPACE     &trans           &trans
             >;
